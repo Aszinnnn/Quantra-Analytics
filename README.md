@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-1.5+-150458?logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
 </div>
 
 ## 🌟 Sobre
