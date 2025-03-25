@@ -19,7 +19,7 @@ pip install pandas faker matplotlib seaborn
 python main.py
 ```
 
-**📌 Exemplo de Saída**
+## 📌 Exemplo de Saída <br>
 Dados Gerados (CSV)
 
 ```bash
